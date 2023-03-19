@@ -1,11 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [ehsandavari/golang-clean-architecture](https://github.com/ehsandavari/golang-clean-architecture)
+
 <!--
-**ehsandavari/ehsandavari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<h2 align="center">🚀 Activities</h2>
+<p align="center">
+  <a href="#" alt="mehdi hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=mehdihadeli" /></a>
+</p>
