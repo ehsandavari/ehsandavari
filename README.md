@@ -4,7 +4,7 @@
   <a href="#" alt="ehsan davari's github profile summary"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsandavari&theme=github" /></a>
 </p>
 
-- 🔭 I’m currently working on [ehsandavari/go-clean-architecture](https://github.com/ehsandavari/go-clean-architecture), [ehsandavari/go-logger](https://github.com/ehsandavari/go-logger) and [ehsandavari/go-tracer](https://github.com/ehsandavari/go-tracer)
+- 🔭 I’m currently working on [go-clean-architecture](https://github.com/ehsandavari/go-clean-architecture), [go-logger](https://github.com/ehsandavari/go-logger) and [go-tracer](https://github.com/ehsandavari/go-tracer)
 
 <h2 align="center">🚀 Activities</h2>
 <p align="center">
